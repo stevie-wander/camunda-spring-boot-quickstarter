@@ -1,5 +1,5 @@
 spring.datasource:
   type: org.postgresql.ds.PGSimpleDataSource
-  username: dbuser
-  password: password
+  username: postgres
+  password: Pass2020!
   url: jdbc:postgresql://localhost:5432/camundadb
